@@ -1,0 +1,1 @@
+"""\nDigital Brain: Neural Prosthetic Simulator\nMain package initialization\n"""\n\n__version__ = "0.1.0"\n__author__ = "Abhinav Sathyadas"\n\nfrom . import signal_simulator\nfrom . import signal_processing\nfrom . import ml_model\nfrom . import stimulation_control\n
